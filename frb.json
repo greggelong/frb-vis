@@ -1,0 +1,628 @@
+{
+"frbs":[
+  {
+    "frb_name": "FRB190523",
+    "utc": "2019/05/23 06:05:55.815",
+    "telescope": "DSA-10",
+    "rop_raj": "13:48:15.6",
+    "rop_decj": "+72:28:11",
+    "rmp_width": 0.42
+  },
+  {
+    "frb_name": "FRB181228",
+    "utc": "2018/12/28 13:48:50.100",
+    "telescope": "UTMOST",
+    "rop_raj": "06:09:23.64",
+    "rop_decj": "-45:58:02.4",
+    "rmp_width": 1.24
+  },
+  {
+    "frb_name": "FRB181017",
+    "utc": "2018/10/17 10:24:37.400",
+    "telescope": "UTMOST",
+    "rop_raj": "22:05:54.82",
+    "rop_decj": "-08:50:34.22",
+    "rmp_width": 0.32
+  },
+  {
+    "frb_name": "FRB181016",
+    "utc": "2018/10/16 04:16:56.300",
+    "telescope": "UTMOST",
+    "rop_raj": "15:46:20.84",
+    "rop_decj": "-25:24:32.6",
+    "rmp_width": 8.6
+  },
+  {
+    "frb_name": "FRB180924",
+    "utc": "2018/09/24 16:23:12.626",
+    "telescope": "ASKAP",
+    "rop_raj": "21:44:25.255",
+    "rop_decj": "-40:54:00.1",
+    "rmp_width": 1.3
+  },
+  {
+    "frb_name": "FRB180817.J1533+42",
+    "utc": "2018/08/17 01:49:20.202",
+    "telescope": "CHIME/FRB",
+    "rop_raj": "15:33",
+    "rop_decj": "+42:12",
+    "rmp_width": 0.37
+  },
+  {
+    "frb_name": "FRB180814.J1554+74",
+    "utc": "2018/08/14 14:20:14.440",
+    "telescope": "CHIME/FRB",
+    "rop_raj": "15:54",
+    "rop_decj": "+74:01",
+    "rmp_width": 0.18
+  },
+  {
+    "frb_name": "FRB180814.J0422+73",
+    "utc": "2018/08/14 14:49:48.022",
+    "telescope": "CHIME/FRB",
+    "rop_raj": "04:22",
+    "rop_decj": "+73:44",
+    "rmp_width": 2.6
+  },
+  {
+    "frb_name": "FRB180812.J0112+80",
+    "utc": "2018/08/12 11:45:32.872",
+    "telescope": "CHIME/FRB",
+    "rop_raj": "01:12",
+    "rop_decj": "+80:47",
+    "rmp_width": 1.25
+  },
+  {
+    "frb_name": "FRB180810.J1159+83",
+    "utc": "2018/08/10 22:40:42.493",
+    "telescope": "CHIME/FRB",
+    "rop_raj": "11:59",
+    "rop_decj": "+83:07",
+    "rmp_width": 0.28
+  },
+  {
+    "frb_name": "FRB180810.J0646+34",
+    "utc": "2018/08/10 17:28:54.614",
+    "telescope": "CHIME/FRB",
+    "rop_raj": "06:46",
+    "rop_decj": "+34:52",
+    "rmp_width": 0.27
+  },
+  {
+    "frb_name": "FRB180806.J1515+75",
+    "utc": "2018/08/06 14:13:03.107",
+    "telescope": "CHIME/FRB",
+    "rop_raj": "15:15",
+    "rop_decj": "+75:38",
+    "rmp_width": 0.69
+  },
+  {
+    "frb_name": "FRB180801.J2130+72",
+    "utc": "2018/08/01 08:47:14.793",
+    "telescope": "CHIME/FRB",
+    "rop_raj": "21:30",
+    "rop_decj": "+72:43",
+    "rmp_width": 0.51
+  },
+  {
+    "frb_name": "FRB180730.J0353+87",
+    "utc": "2018/07/30 03:37:25.937",
+    "telescope": "CHIME/FRB",
+    "rop_raj": "03:53",
+    "rop_decj": "+87:12",
+    "rmp_width": 0.42
+  },
+  {
+    "frb_name": "FRB180729.J1316+55",
+    "utc": "2018/07/29 00:48:19.238",
+    "telescope": "CHIME/FRB",
+    "rop_raj": "13:16",
+    "rop_decj": "+55:32",
+    "rmp_width": 0.12
+  },
+  {
+    "frb_name": "FRB180729.J0558+56",
+    "utc": "2018/07/29 17:28:18.258",
+    "telescope": "CHIME/FRB",
+    "rop_raj": "05:58",
+    "rop_decj": "+56:30",
+    "rmp_width": 0.08
+  },
+  {
+    "frb_name": "FRB180727.J1311+26",
+    "utc": "2018/07/27 00:52:04.474",
+    "telescope": "CHIME/FRB",
+    "rop_raj": "13:11",
+    "rop_decj": "+26:26",
+    "rmp_width": 0.78
+  },
+  {
+    "frb_name": "FRB180725.J0613+67",
+    "utc": "2018/07/25 17:59:32.813",
+    "telescope": "CHIME/FRB",
+    "rop_raj": "06:13",
+    "rop_decj": "+67:04",
+    "rmp_width": 0.31
+  },
+  {
+    "frb_name": "FRB180528",
+    "utc": "2018/05/28 04:24:00.900",
+    "telescope": "UTMOST",
+    "rop_raj": "06:38:49.80",
+    "rop_decj": "-49:53:59",
+    "rmp_width": 2
+  },
+  {
+    "frb_name": "FRB180525",
+    "utc": "2018/05/25 15:19:06.515",
+    "telescope": "ASKAP",
+    "rop_raj": "14:40",
+    "rop_decj": "-02:12",
+    "rmp_width": 3.8
+  },
+  {
+    "frb_name": "FRB180515",
+    "utc": "2018/05/15 21:57:26.485",
+    "telescope": "ASKAP",
+    "rop_raj": "23:13:12",
+    "rop_decj": "-42:14:46",
+    "rmp_width": 1.9
+  },
+  {
+    "frb_name": "FRB180430",
+    "utc": "2018/04/30 10:00:35.700",
+    "telescope": "ASKAP",
+    "rop_raj": "06:51",
+    "rop_decj": "-09:57",
+    "rmp_width": 1.2
+  },
+  {
+    "frb_name": "FRB180324",
+    "utc": "2018/03/24 09:31:46.706",
+    "telescope": "ASKAP",
+    "rop_raj": "06:16",
+    "rop_decj": "-34:47",
+    "rmp_width": 4.3
+  },
+  {
+    "frb_name": "FRB180315",
+    "utc": "2018/03/15 05:05:30.985",
+    "telescope": "ASKAP",
+    "rop_raj": "19:35",
+    "rop_decj": "-26:50",
+    "rmp_width": 2.4
+  },
+  {
+    "frb_name": "FRB180212",
+    "utc": "2018/02/12 23:45:04.399",
+    "telescope": "ASKAP",
+    "rop_raj": "14:21",
+    "rop_decj": "-03:35",
+    "rmp_width": 1.81
+  },
+  {
+    "frb_name": "FRB180131",
+    "utc": "2018/01/31 05:45:04.320",
+    "telescope": "ASKAP",
+    "rop_raj": "21:49.9",
+    "rop_decj": "-40:41",
+    "rmp_width": 4.5
+  },
+  {
+    "frb_name": "FRB180130",
+    "utc": "2018/01/30 04:55:29.993",
+    "telescope": "ASKAP",
+    "rop_raj": "21:52.2",
+    "rop_decj": "-38:34",
+    "rmp_width": 4.1
+  },
+  {
+    "frb_name": "FRB180128.2",
+    "utc": "2018/01/28 04:53:26.796",
+    "telescope": "ASKAP",
+    "rop_raj": "22:22",
+    "rop_decj": "-60:15",
+    "rmp_width": 2.3
+  },
+  {
+    "frb_name": "FRB180128.0",
+    "utc": "2018/01/28 00:59:38.617",
+    "telescope": "ASKAP",
+    "rop_raj": "13:56",
+    "rop_decj": "-06:43",
+    "rmp_width": 2.9
+  },
+  {
+    "frb_name": "FRB180119",
+    "utc": "2018/01/19 12:24:40.747",
+    "telescope": "ASKAP",
+    "rop_raj": "03:29.3",
+    "rop_decj": "-12:44",
+    "rmp_width": 2.7
+  },
+  {
+    "frb_name": "FRB180110",
+    "utc": "2018/01/10 07:34:34.959",
+    "telescope": "ASKAP",
+    "rop_raj": "21:53.0",
+    "rop_decj": "-35:27",
+    "rmp_width": 3.2
+  },
+  {
+    "frb_name": "FRB171216",
+    "utc": "2017/12/16 17:59:10.822",
+    "telescope": "ASKAP",
+    "rop_raj": "03:28",
+    "rop_decj": "-57:04",
+    "rmp_width": 1.9
+  },
+  {
+    "frb_name": "FRB171213",
+    "utc": "2017/12/13 14:22:40.467",
+    "telescope": "ASKAP",
+    "rop_raj": "03:39",
+    "rop_decj": "-10:56",
+    "rmp_width": 1.5
+  },
+  {
+    "frb_name": "FRB171116",
+    "utc": "2017/11/16 14:59:33.305",
+    "telescope": "ASKAP",
+    "rop_raj": "03:31.0",
+    "rop_decj": "-17:14",
+    "rmp_width": 3.2
+  },
+  {
+    "frb_name": "FRB171020",
+    "utc": "2017/10/20 10:27:58.598",
+    "telescope": "ASKAP",
+    "rop_raj": "22:15",
+    "rop_decj": "-19:40",
+    "rmp_width": 3.2
+  },
+  {
+    "frb_name": "FRB171019",
+    "utc": "2017/10/19 13:26:40.097",
+    "telescope": "ASKAP",
+    "rop_raj": "22:17.5",
+    "rop_decj": "-08:40",
+    "rmp_width": 5.4
+  },
+  {
+    "frb_name": "FRB171004",
+    "utc": "2017/10/04 03:23:39.250",
+    "telescope": "ASKAP",
+    "rop_raj": "11:57.6",
+    "rop_decj": "-11:54",
+    "rmp_width": 2
+  },
+  {
+    "frb_name": "FRB171003",
+    "utc": "2017/10/03 04:07:23.781",
+    "telescope": "ASKAP",
+    "rop_raj": "12:29.5",
+    "rop_decj": "-14:07",
+    "rmp_width": 2
+  },
+  {
+    "frb_name": "FRB170922",
+    "utc": "2017/09/22 11:23:33.400",
+    "telescope": "UTMOST",
+    "rop_raj": "21:29:50.61",
+    "rop_decj": "-07:59:40.49",
+    "rmp_width": 34.1
+  },
+  {
+    "frb_name": "FRB170906",
+    "utc": "2017/09/06 13:06:56.488",
+    "telescope": "ASKAP",
+    "rop_raj": "21:59.8",
+    "rop_decj": "-19:57",
+    "rmp_width": 2.5
+  },
+  {
+    "frb_name": "FRB170827",
+    "utc": "2017/08/27 16:20:18.000",
+    "telescope": "UTMOST",
+    "rop_raj": "00:49:18.66",
+    "rop_decj": "-65:33:02.3",
+    "rmp_width": 0.4
+  },
+  {
+    "frb_name": "FRB170712",
+    "utc": "2017/07/12 13:22:17.394",
+    "telescope": "ASKAP",
+    "rop_raj": "22:36",
+    "rop_decj": "-60:57",
+    "rmp_width": 1.4
+  },
+  {
+    "frb_name": "FRB170707",
+    "utc": "2017/07/07 06:17:34.354",
+    "telescope": "ASKAP",
+    "rop_raj": "02:59",
+    "rop_decj": "-57:16",
+    "rmp_width": 3.5
+  },
+  {
+    "frb_name": "FRB170606",
+    "utc": "2017/06/06 10:03:27.000",
+    "telescope": "Pushchino",
+    "rop_raj": "05:34:00",
+    "rop_decj": "41:45:00",
+    "rmp_width": 3300
+  },
+  {
+    "frb_name": "FRB170428",
+    "utc": "2017/04/28 18:02:34.700",
+    "telescope": "ASKAP",
+    "rop_raj": "21:47",
+    "rop_decj": "-41:51",
+    "rmp_width": 4.4
+  },
+  {
+    "frb_name": "FRB170416",
+    "utc": "2017/04/16 23:11:12.799",
+    "telescope": "ASKAP",
+    "rop_raj": "22:13",
+    "rop_decj": "-55:02",
+    "rmp_width": 5
+  },
+  {
+    "frb_name": "FRB170107",
+    "utc": "2017/01/07 20:05:08.139",
+    "telescope": "ASKAP",
+    "rop_raj": "11:23.3",
+    "rop_decj": "-05:00",
+    "rmp_width": 2.4
+  },
+  {
+    "frb_name": "FRB160920",
+    "utc": "2016/09/20 03:05:43.000",
+    "telescope": "Pushchino",
+    "rop_raj": "05:34:00",
+    "rop_decj": "41:45:00",
+    "rmp_width": 5000
+  },
+  {
+    "frb_name": "FRB160608",
+    "utc": "2016/06/08 03:53:01.088",
+    "telescope": "UTMOST",
+    "rop_raj": "07:36:42",
+    "rop_decj": "-40:47:52",
+    "rmp_width": 9
+  },
+  {
+    "frb_name": "FRB160410",
+    "utc": "2016/04/10 08:33:39.680",
+    "telescope": "UTMOST",
+    "rop_raj": "08:41:25",
+    "rop_decj": "06:05:05",
+    "rmp_width": 4
+  },
+  {
+    "frb_name": "FRB160317",
+    "utc": "2016/03/17 09:00:36.530",
+    "telescope": "UTMOST",
+    "rop_raj": "07:53:47",
+    "rop_decj": "-29:36:31",
+    "rmp_width": 21
+  },
+  {
+    "frb_name": "FRB160102",
+    "utc": "2016/01/02 08:28:39.374",
+    "telescope": "parkes",
+    "rop_raj": "22:38:49",
+    "rop_decj": "-30:10:50",
+    "rmp_width": 3.4
+  },
+  {
+    "frb_name": "FRB151230",
+    "utc": "2015/12/30 16:15:46.525",
+    "telescope": "parkes",
+    "rop_raj": "09:40:50",
+    "rop_decj": "-03:27:05",
+    "rmp_width": 4.4
+  },
+  {
+    "frb_name": "FRB151206",
+    "utc": "2015/12/06 06:17:52.778",
+    "telescope": "parkes",
+    "rop_raj": "19:21:25",
+    "rop_decj": "-04:07:54",
+    "rmp_width": 3
+  },
+  {
+    "frb_name": "FRB151018",
+    "utc": "2015/10/18 01:05:48.000",
+    "telescope": "Pushchino",
+    "rop_raj": "05:21:00",
+    "rop_decj": "33:06:00",
+    "rmp_width": 2500
+  },
+  {
+    "frb_name": "FRB150807",
+    "utc": "2015/08/07 17:53:55.830",
+    "telescope": "parkes",
+    "rop_raj": "22:42:31",
+    "rop_decj": "-55:04:42",
+    "rmp_width": 0.35
+  },
+  {
+    "frb_name": "FRB150610",
+    "utc": "2015/06/10 05:26:59.396",
+    "telescope": "parkes",
+    "rop_raj": "10:44:26",
+    "rop_decj": "-40:05:23",
+    "rmp_width": 2
+  },
+  {
+    "frb_name": "FRB150418",
+    "utc": "2015/04/18 04:29:06.657",
+    "telescope": "parkes",
+    "rop_raj": "07:16:35",
+    "rop_decj": "-19:00:40",
+    "rmp_width": 0.8
+  },
+  {
+    "frb_name": "FRB150215",
+    "utc": "2015/02/15 20:41:41.714",
+    "telescope": "parkes",
+    "rop_raj": "18:17:27",
+    "rop_decj": "-04:54:15",
+    "rmp_width": 2.88
+  },
+  {
+    "frb_name": "FRB141113",
+    "utc": "2014/11/13 07:42:55.220",
+    "telescope": "arecibo",
+    "rop_raj": "06:13:00.1",
+    "rop_decj": "18:47:11.2",
+    "rmp_width": 2
+  },
+  {
+    "frb_name": "FRB140514",
+    "utc": "2014/05/14 17:14:11.060",
+    "telescope": "parkes",
+    "rop_raj": "22:34:06",
+    "rop_decj": "-12:18:46",
+    "rmp_width": 2.8
+  },
+  {
+    "frb_name": "FRB131104",
+    "utc": "2013/11/04 18:04:11.200",
+    "telescope": "parkes",
+    "rop_raj": "06:44:10",
+    "rop_decj": "-51:16:40",
+    "rmp_width": 2.08
+  },
+  {
+    "frb_name": "FRB130729",
+    "utc": "2013/07/29 09:01:51.190",
+    "telescope": "parkes",
+    "rop_raj": "13:41:21",
+    "rop_decj": "-05:59:43",
+    "rmp_width": 15.61
+  },
+  {
+    "frb_name": "FRB130628",
+    "utc": "2013/06/28 03:58:00.178",
+    "telescope": "parkes",
+    "rop_raj": "09:03:02",
+    "rop_decj": "03:26:16",
+    "rmp_width": 0.64
+  },
+  {
+    "frb_name": "FRB130626",
+    "utc": "2013/06/26 14:55:59.771",
+    "telescope": "parkes",
+    "rop_raj": "16:27:06",
+    "rop_decj": "-07:27:48",
+    "rmp_width": 1.98
+  },
+  {
+    "frb_name": "FRB121102",
+    "utc": "2012/11/02 06:35:53.244",
+    "telescope": "arecibo",
+    "rop_raj": "05:32:09",
+    "rop_decj": "33:05:13",
+    "rmp_width": 3
+  },
+  {
+    "frb_name": "FRB121002",
+    "utc": "2012/10/02 13:09:18.436",
+    "telescope": "parkes",
+    "rop_raj": "18:14:47",
+    "rop_decj": "-85:11:53",
+    "rmp_width": 5.44
+  },
+  {
+    "frb_name": "FRB120127",
+    "utc": "2012/01/27 08:11:21.725",
+    "telescope": "parkes",
+    "rop_raj": "23:15:06",
+    "rop_decj": "-18:25:38",
+    "rmp_width": 1.1
+  },
+  {
+    "frb_name": "FRB110703",
+    "utc": "2011/07/03 18:59:40.607",
+    "telescope": "parkes",
+    "rop_raj": "23:30:51",
+    "rop_decj": "-02:52:24",
+    "rmp_width": 4.3
+  },
+  {
+    "frb_name": "FRB110626",
+    "utc": "2011/06/26 21:33:17.477",
+    "telescope": "parkes",
+    "rop_raj": "21:03:43",
+    "rop_decj": "-44:44:19",
+    "rmp_width": 1.4
+  },
+  {
+    "frb_name": "FRB110523",
+    "utc": "2011/05/23 15:06:19.700",
+    "telescope": "GBT",
+    "rop_raj": "21:45:12",
+    "rop_decj": "-00:09:37",
+    "rmp_width": 1.73
+  },
+  {
+    "frb_name": "FRB110220",
+    "utc": "2011/02/20 01:55:48.096",
+    "telescope": "parkes",
+    "rop_raj": "22:34:38",
+    "rop_decj": "-12:23:45",
+    "rmp_width": 5.6
+  },
+  {
+    "frb_name": "FRB110214",
+    "utc": "2011/02/14 07:14:10.353",
+    "telescope": "parkes",
+    "rop_raj": "01:21:17",
+    "rop_decj": "-49:47:11",
+    "rmp_width": 1.9
+  },
+  {
+    "frb_name": "FRB090625",
+    "utc": "2009/06/25 21:53:51.379",
+    "telescope": "parkes",
+    "rop_raj": "03:07:47",
+    "rop_decj": "-29:55:36",
+    "rmp_width": 1.92
+  },
+  {
+    "frb_name": "FRB010724",
+    "utc": "2001/07/24 19:50:01.690",
+    "telescope": "parkes",
+    "rop_raj": "01:18:06",
+    "rop_decj": "-75:12:18",
+    "rmp_width": 5
+  },
+  {
+    "frb_name": "FRB010621",
+    "utc": "2001/06/21 13:02:11.299",
+    "telescope": "parkes",
+    "rop_raj": "18:52:05",
+    "rop_decj": "-08:29:35",
+    "rmp_width": 7
+  },
+  {
+    "frb_name": "FRB010312",
+    "utc": "2001/03/12 11:06:47.980",
+    "telescope": "Parkes",
+    "rop_raj": "05:26:54.9",
+    "rop_decj": "-64:56:19.2",
+    "rmp_width": 24.3
+  },
+  {
+    "frb_name": "FRB010125",
+    "utc": "2001/01/25 00:29:15.790",
+    "telescope": "parkes",
+    "rop_raj": "19:06:53",
+    "rop_decj": "-40:37:14",
+    "rmp_width": 9.4
+  }
+]
+}
